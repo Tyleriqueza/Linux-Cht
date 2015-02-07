@@ -58,14 +58,29 @@ Pagers:
 
 File and directories:
 
-- [cp](cp.sh)
-- [du](du.md)
-- [fdupes](fdupes.md)
-- [find](find.md)
-- [locate](locate.md)
-- [ls](ls.md)
-- [Swap partition](swap-partition.md)
-- [tree](tree.md)
+-   [cp](cp.sh)
+
+-   [du](du.md)
+
+-   [fdupes](fdupes.md)
+
+-   [find](find.md)
+
+-   links:
+
+    - [ln](ln.md)
+    - [readlink](readlink.md)
+    - [realpath](realpath.md)
+
+-   [locate](locate.md)
+
+-   [ls](ls.md)
+
+-   [swap partition](swap-partition.md)
+
+-   [stat](stat.md)
+
+-   [tree](tree.md)
 
 Diff:
 
